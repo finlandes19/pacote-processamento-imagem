@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Projeto de [Karina Kato] (https://github.com/tiemi) utilizado apenas para fins de aprendizado de manuseio de pacotes em Python
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
